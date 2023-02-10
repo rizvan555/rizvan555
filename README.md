@@ -1,6 +1,7 @@
-### Hi there 👋, I'm Rizvan Karimov
+### Hi there...
 
-
+I'm Rizvan Karimov and I'm a junior frontend web developer 👨‍💻. In my code I pay attention to efficiency, effectiveness and readability. 
+Punctuality is my main priority
 
 
 
