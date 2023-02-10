@@ -26,9 +26,3 @@
 <br />
 <br />
 
-### Connect with me:
-
-[<img align="left" alt="github width="22px" src="https://github.com/rizvan555" />][Github]
-
-[<img align="left" alt="Rizvan555 | LinkedIn" width="22px" src="hhttps://www.linkedin.com/in/rizvan-karimov-b90a26243/.svg" />][linkedin]
-
