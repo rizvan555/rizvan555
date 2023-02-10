@@ -24,7 +24,8 @@ Punctuality is my main priority
 <img align="left" alt="React" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
 <img align="left" alt="NodeJS" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
 <img align="left" alt="GitHub" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
-<img align="left" alt="Bootstrp" width="30px" style="padding-right:10px;" src="hhttps://cdn.jsdelivr.net/npm/bootstrap-icon-element@1.0.0/bootstrap-icon-element.min.js" />
+<img src ="./images/bootstrap.svg" alt="Bootstrap logo"  width="30px" style="padding-right:10px;"width="4%" title='Bootstrap'/>"
+<img src ="./images/bootstrap.svg" alt="Bootstrap logo" width="4%" title='Bootstrap'/>
 <br />
 <br />
 
