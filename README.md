@@ -25,6 +25,7 @@ Punctuality is my main priority
 <img align="left" alt="React" width="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
 <img align="left" alt="NodeJS" width="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
 <img align="left" alt="GitHub" width="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
+<img src ="./vscode.png" alt="vscode" style="padding-top: 10px"; width="50px" title='vscode'/>
 <img src ="./material-ui-1.svg" alt="Bootstrap logo" style="padding-top: 10px"; width="50px" title='material-ui'/>
 
 
