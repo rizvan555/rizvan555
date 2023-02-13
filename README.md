@@ -20,16 +20,15 @@ Punctuality is my main priority
 <img align="left" alt="HTML" width="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" />
 <img align="left" alt="CSS" width="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" />
 <img align="left" alt="SASS" width="50px"  style="padding-right:10px;" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png" />
-<img src ="./bootstrap.svg" alt="Bootstrap logo" width="50px"  title='Bootstrap'/>
 <img align="left" alt="JavaScript" width="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" />
 <img align="left" alt="React" width="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
 <img align="left" alt="NodeJS" width="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
 <img align="left" alt="GitHub" width="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
-<img src ="./vscode.png" alt="vscode" style="padding-top: 10px"; width="50px" title='vscode'/>
-<img src ="./material-ui-1.svg" alt="Bootstrap logo" style="padding-top: 10px"; width="50px" title='material-ui'/>
+<div style="display:flex" >
+<img  src ="./vscode.png" alt="vscode" style="padding-top: 10px"; width="50px" title='vscode'/>
+<img style="margin-left:10px" src ="./material-ui-1.svg" alt="Bootstrap logo" style="padding-top: 10px"; width="50px" title='material-ui'/>
+<img src ="./bootstrap.svg" alt="Bootstrap logo" width="50px"  title='Bootstrap'/>
+</div>
 
 
-
-<br />
-<br />
 
