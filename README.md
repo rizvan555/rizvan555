@@ -15,8 +15,7 @@ Punctuality is my main priority
 
 ### 🧰 Languages and Tools:
 
-
+<p align="center">
 <img src="https://skillicons.dev/icons?i=html,css,bootstrap,tailwind,sass,ts,js,react,styledcomponents,materialui,nodejs,express,mongodb,git,github,figma,visualstudio,wordpress,webflow" />  
-
-
+<p/>
 
