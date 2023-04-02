@@ -6,13 +6,13 @@ Punctuality is my main priority
 
 
 ## I'm a FrontEnd Developer
-
+<div style={{display:flex}}>
 - 🔭 At present, I am studying Full Stack ...
 - 💪 I’m looking for help with ...
 - 🥅 I’m constantly lerning new things...
 
 <img src="https://github.com/SP-XD/SP-XD/blob/main/images/dev-working_rounded.gif?raw=true" href="https://github.com/sp-xd" alt="CoDiNg RocKs"  width="60%"/><br> 
-
+</div>
 <br />
 
 
