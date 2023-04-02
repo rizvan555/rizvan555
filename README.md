@@ -23,6 +23,5 @@ Punctuality is my main priority
 <p/>
 
 
-<img src="https://github.com/rizvan555/rizvan555/blob/main/images/hellocoders_rounded.gif?raw=true" alt="Hello Coders" width="70%">
 
 
