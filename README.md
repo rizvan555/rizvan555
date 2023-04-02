@@ -7,12 +7,17 @@ Punctuality is my main priority
 
 ## I'm a FrontEnd Developer
 <div style={{display:flex}}>
-- 🔭 At present, I am studying Full Stack ...
-- 💪 I’m looking for help with ...
-- 🥅 I’m constantly lerning new things...
+  <div style={{display: 'flex', flexDirection: 'column'}}>
+    <p>🔭 At present, I am studying Full Stack ...</p>
+    <p>💪 I’m looking for help with ...</p>
+    <p>🥅 I’m constantly learning new things...</p>
+  </div>
 
-<img src="https://github.com/SP-XD/SP-XD/blob/main/images/dev-working_rounded.gif?raw=true" href="https://github.com/sp-xd" alt="CoDiNg RocKs"  width="60%"/><br> 
+  <div>
+    <img src="https://github.com/SP-XD/SP-XD/blob/main/images/dev-working_rounded.gif?raw=true" href="https://github.com/sp-xd" alt="CoDiNg RocKs"  width="50%"/><br>
+  </div>
 </div>
+
 <br />
 
 
