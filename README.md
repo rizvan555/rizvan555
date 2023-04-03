@@ -8,7 +8,7 @@ Punctuality is my main priority
 ## I'm a FrontEnd Developer
 <div style={{display:flex}}>
   <div style={{display: 'flex', flexDirection: 'column'}}>
-    <p>🔭 At present, I am studying Full Stack ...</p>
+    <p><img alt="GIF" src="https://github.com/SP-XD/SP-XD/blob/main/images/Developer.gif" width="25" /> At present, I am studying Full Stack ...</p>
     <p>💪 I’m looking for help with ...</p>
     <p>🥅 I’m constantly learning new things...</p>
   </div>
@@ -28,5 +28,4 @@ Punctuality is my main priority
 <p/>
 
 
-
-
+<img src="https://raw.githubusercontent.com/SP-XD/profile-summary-cards/master/profile-summary-card-output/nord_dark/1-repos-per-language.svg" width="32.5%">
