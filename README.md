@@ -9,8 +9,8 @@ Punctuality is my main priority
 <div style={{display:flex}}>
   <div style={{display: 'flex', flexDirection: 'column'}}>
     <p><img alt="GIF" src="https://github.com/SP-XD/SP-XD/blob/main/images/Developer.gif" width="25" /> At present, I am studying Full Stack ...</p>
-    <p>💪 I’m looking for help with ...</p>
-    <p>🥅 I’m constantly learning new things...</p>
+    <p> 💪 I’m looking for help with ...</p>
+    <p> 🥅 I’m constantly learning new things...</p>
   </div>
 
   <div>
