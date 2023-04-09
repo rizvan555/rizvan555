@@ -32,7 +32,6 @@ Punctuality is my main priority
 
 ![](https://github-contributor-stats.vercel.app/api?username=rizvan555&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
-
 ---
 
 [![](https://visitcount.itsvg.in/api?id=rizvan555&label=Profile%20Views&color=2&icon=0&pretty=false)](https://visitcount.itsvg.in)
