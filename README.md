@@ -4,7 +4,6 @@ I'm Rizvan Karimov and I'm a junior frontend web developer 👨‍💻. In my co
 Punctuality is my main priority.
 
 
-
 ## I'm a FrontEnd Developer
 <div style={{display:flex}}>
   <div style={{display: 'flex', flexDirection: 'column'}}>
