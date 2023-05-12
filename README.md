@@ -11,8 +11,10 @@ Punctuality is my main priority.
   </div>
 
   <div>
-    <img src="https://github.com/SP-XD/SP-XD/blob/main/images/dev-working_rounded.gif?raw=true" href="https://github.com/sp-xd" alt="CoDiNg RocKs"  width="60%"/><br>
+    <img src="https://github.com/SP-XD/SP-XD/blob/main/images/dev-working_rounded.gif?raw=true" href="https://github.com/sp-xd" alt="CoDiNg RocKs"  width="43%"/>
+    <img src="https://github.com/rizvan555/rizvan555/assets/78643485/3244c96f-8bfc-4dd9-8496-695dc6a1cf59" width="55%" />
   </div>
+  <br>
 </div>
 <br />
 
