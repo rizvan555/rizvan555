@@ -34,5 +34,4 @@ Punctuality is my main priority.
 
 [![](https://visitcount.itsvg.in/api?id=rizvan555&label=Profile%20Views&color=2&icon=0&pretty=false)](https://visitcount.itsvg.in)
 
-![](https://raw.githubusercontent.com/SP-XD/profile-summary-cards/master/profile-summary-card-output/2077/3-stats.svg)
 
