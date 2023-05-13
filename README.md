@@ -11,8 +11,9 @@ Punctuality is my main priority.
   </div>
 
   <div>
-    <img src="https://github.com/SP-XD/SP-XD/blob/main/images/dev-working_rounded.gif?raw=true" href="https://github.com/sp-xd" alt="CoDiNg RocKs"  width="43%"/>
     <img src="https://www.lambdatest.com/resources/images/news24.gif" width="55%" />
+    <img src="https://github.com/SP-XD/SP-XD/blob/main/images/dev-working_rounded.gif?raw=true" href="https://github.com/sp-xd" alt="CoDiNg RocKs"  width="43%"/>
+    
   </div>
   <br>
 </div>
