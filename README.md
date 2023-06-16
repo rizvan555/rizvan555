@@ -3,7 +3,6 @@
 I'm Rizvan Karimov and I'm a Frontend Web Developer 👨‍💻. In my code I pay attention to efficiency, effectiveness and readability. 
 Punctuality is my main priority.
 
-
 ## I'm a FrontEnd Developer
 <div style={{display:flex}}>
   <div style={{display: 'flex', flexDirection: 'column'}}>
