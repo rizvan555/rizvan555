@@ -3,7 +3,7 @@
 I'm Rizvan Karimov and I'm a Frontend Web Developer 👨‍💻. In my code I pay attention to efficiency, effectiveness and readability. 
 Punctuality is my main priority.
 
-## I'm a FrontEnd Developer
+## I'm a FullStack Developer
 <div style={{display:flex}}>
   <div style={{display: 'flex', flexDirection: 'column'}}>
     <p><img alt="GIF" src="https://github.com/SP-XD/SP-XD/blob/main/images/Developer.gif" width="25" /> At present, I am studying Full Stack ...</p>
