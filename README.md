@@ -9,7 +9,6 @@ Punctuality is my main priority.
     <p><img alt="GIF" src="https://github.com/SP-XD/SP-XD/blob/main/images/Developer.gif" width="25" /> At present, I am studying Full Stack ...</p>
     <p> 🥅 I’m constantly learning new things...</p>
   </div>
-
   
   <div>
     <img src="https://www.lambdatest.com/resources/images/news24.gif" width="55%" />
