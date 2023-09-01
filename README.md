@@ -14,7 +14,7 @@ Punctuality is my main priority.
 
 <div style={{display:flex}}>
   <div style={{display: 'flex', flexDirection: 'column'}}>
-    <p><img alt="GIF" src="https://github.com/SP-XD/SP-XD/blob/main/images/Developer.gif" width="25" />"I'm currently learning TypeScript and Vue.js better."</p>
+    <p><img alt="GIF" src="https://github.com/SP-XD/SP-XD/blob/main/images/Developer.gif" width="25" />"I'm currently learning TypeScript and Angular better."</p>
     <p> 🥅 I’m constantly learning new things...</p>
   </div>
 
