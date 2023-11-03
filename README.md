@@ -4,7 +4,6 @@
 
 
 
-
 I'm Rizvan Karimov and I'm a FULL-STACK-DEVELOPER 👨‍💻. 
 In my code I pay attention to efficiency, effectiveness and readability.
 Punctuality is my main priority.
@@ -45,3 +44,5 @@ Punctuality is my main priority.
 ---
 
 [![](https://visitcount.itsvg.in/api?id=rizvan555&label=Profile%20Views&color=2&icon=0&pretty=false)](https://visitcount.itsvg.in)
+
+
