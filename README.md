@@ -43,6 +43,8 @@ Punctuality is my main priority.
 
 ![Rizvan's GitHub stats](https://github-readme-stats.vercel.app/api?username=rizvan555&show_icons=true&theme=transparent)
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rizvan555&layout=compact)
+
 ---
 
 [![](https://visitcount.itsvg.in/api?id=rizvan555&label=Profile%20Views&color=2&icon=0&pretty=false)](https://visitcount.itsvg.in)
