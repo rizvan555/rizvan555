@@ -2,6 +2,7 @@
 
 
 
+
 I'm Rizvan Karimov and I'm a Software Developer 👨‍💻. 
 In my code I pay attention to efficiency, effectiveness and readability.
 Punctuality is my main priority.
