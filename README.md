@@ -1,4 +1,14 @@
+# 🌟 Welcome to My GitHub Profile! 🌟  
 
+![Banner](https://github.com/rizvan555/rizvan555/blob/main/assets/github-banner.gif)  
+
+### 👋 Hi, I'm Rizvan Karimov!  
+I'm a **Full-Stack Developer** with a passion for building **efficient, scalable, and maintainable** applications. 🚀  
+I focus on **performance, security, and clean code** while ensuring a great user experience.  
+
+---
+
+## 🛠️ **Tech Stack & Tools** 🚀  
 
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Mongoose](https://img.shields.io/badge/Mongoose-%234ea94b.svg?style=for-the-badge&logo=mongoose&logoColor=white)  
 ![Java](https://img.shields.io/badge/java-%23F24E1E.svg?style=for-the-badge&logo=java&logoColor=white) ![Spring](https://img.shields.io/badge/Spring-%7D1C32.svg?style=for-the-badge&logo=spring&logoColor=white) ![Spring Boot](https://img.shields.io/badge/Spring%20Boot-%7D1C32.svg?style=for-the-badge&logo=springboot&logoColor=white) ![Junit](https://img.shields.io/badge/JUnit%20Testing-%23F24E1E.svg?style=for-the-badge&logo=Junit%20testing&logoColor=white)  
