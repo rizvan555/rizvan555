@@ -67,41 +67,10 @@ Punctuality is my main priority.
 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=rizvan555&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=rizvan555&theme=dark&hide_border=false&include_all_commits=false&count_private=true&layout=compact)
-
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=rizvan555&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact&cache_seconds=30)
-
-![](https://github-readme-stats-rizvan.vercel.app/api/top-langs/?username=rizvan555&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=rizvan555&theme=dark&hide_border=false&include_all_commits=false&count_private=true&layout=compact)
 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=rizvan555&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact&cache_seconds=30)
 
 
-![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=rizvan555&theme=dark)
-
-
-import requests
-
-username = "rizvan555"  # Öz GitHub username-inizi buraya yazın
-url = f"https://api.github.com/users/{username}/repos"
-
-response = requests.get(url)
-repos = response.json()
-
-languages = {}
-
-for repo in repos:
-    if repo["language"]:
-        languages[repo["language"]] = languages.get(repo["language"], 0) + 1
-
-# Nəticələri çap et
-for lang, count in sorted(languages.items(), key=lambda item: item[1], reverse=True):
-    print(f"{lang}: {count}")
-
-
-
-![Rizvan's GitHub stats](https://github-readme-stats.vercel.app/api?username=rizvan555&show_icons=true&theme=transparent)
 
 
 ---
