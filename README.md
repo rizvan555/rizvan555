@@ -27,13 +27,27 @@ I focus on **performance, security, and clean code** while ensuring a great user
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Trello](https://img.shields.io/badge/Trello-%23026AA7.svg?style=for-the-badge&logo=Trello&logoColor=white)  
 
 
-# 📊 GitHub Stats:
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=rizvan555&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
+## 🎯 **What I’m Currently Learning**  
+🎓 Improving my **Java, Spring Boot, and JUnit testing skills**  
+🔍 Exploring **performance optimization and scalability**  
+🌐 Diving deeper into **DevOps & Cloud Computing**  
 
 ---
 
-[![](https://visitcount.itsvg.in/api?id=rizvan555&label=Profile%20Views&color=2&icon=0&pretty=false)](https://visitcount.itsvg.in)
+### 🏆 **Top Languages:**  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rizvan555&theme=dark&hide_border=false&layout=compact)  
 
+---
+
+## 🌎 **Find Me Elsewhere**  
+📌 [**Portfolio Website**](https://yourportfolio.com)  
+🐦 [**Twitter**](https://twitter.com/yourhandle)  
+👔 [**LinkedIn**](https://www.linkedin.com/in/rizvankarimov)  
+📧 **Email:** karimovrizvan84@gmail.com  
+
+---
+
+[![](https://visitcount.itsvg.in/api?id=rizvan555&label=Profile%20Views&color=2&icon=0&pretty=false)](https://visitcount.itsvg.in)  
 
