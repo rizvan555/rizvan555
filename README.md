@@ -79,9 +79,26 @@ Punctuality is my main priority.
 
 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=rizvan555&theme=dark)
-![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=rizvan555&theme=dark)
-![](https://github-readme-streak-stats.herokuapp.com/api?user=rizvan555&theme=dark)
-![](https://github-readme-stats.vercel.app/api/wakatime?username=rizvan555&theme=dark)
+
+
+import requests
+
+username = "rizvan555"  # Öz GitHub username-inizi buraya yazın
+url = f"https://api.github.com/users/{username}/repos"
+
+response = requests.get(url)
+repos = response.json()
+
+languages = {}
+
+for repo in repos:
+    if repo["language"]:
+        languages[repo["language"]] = languages.get(repo["language"], 0) + 1
+
+# Nəticələri çap et
+for lang, count in sorted(languages.items(), key=lambda item: item[1], reverse=True):
+    print(f"{lang}: {count}")
+
 
 
 ![Rizvan's GitHub stats](https://github-readme-stats.vercel.app/api?username=rizvan555&show_icons=true&theme=transparent)
