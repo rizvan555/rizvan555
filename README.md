@@ -42,9 +42,8 @@ I focus on **performance, security, and clean code** while ensuring a great user
 ---
 
 ## 🌎 **Find Me Elsewhere**  
-📌 [**Portfolio Website**](https://yourportfolio.com)  
-🐦 [**Twitter**](https://twitter.com/yourhandle)  
-👔 [**LinkedIn**](https://www.linkedin.com/in/rizvankarimov)  
+
+👔 [**LinkedIn**](https://www.linkedin.com/in/rizvan-karimov-b90a26243/)  
 📧 **Email:** karimovrizvan84@gmail.com  
 
 ---
