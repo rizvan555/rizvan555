@@ -43,12 +43,6 @@ I focus on **performance, security, and clean code** while ensuring a great user
 
 ---
 
-## 🌎 **Find Me Elsewhere**  
-
-👔 [**LinkedIn**](https://www.linkedin.com/in/rizvan-karimov-b90a26243/)  
-📧 **Email:** karimovrizvan84@gmail.com  
-
----
 
 [![](https://visitcount.itsvg.in/api?id=rizvan555&label=Profile%20Views&color=2&icon=0&pretty=false)](https://visitcount.itsvg.in)  
 
