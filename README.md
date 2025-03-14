@@ -1,9 +1,3 @@
-# 🌟 Welcome to My GitHub Profile! 🌟  
-
-
-
-
-
 ### 👋 Hi, I'm Rizvan Karimov!  
 I'm a **Full-Stack Developer** with a passion for building **efficient, scalable, and maintainable** applications. 🚀  
 I focus on **performance, security, and clean code** while ensuring a great user experience.  
