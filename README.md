@@ -31,7 +31,6 @@ I focus on **performance, security, and clean code** while ensuring a great user
 
 
 ## 🎯 **What I’m Currently Learning**  
-🎓 Improving my **Java, Spring Boot, and JUnit testing skills**  
 🔍 Exploring **performance optimization and scalability**  
 🌐 Diving deeper into **DevOps & Cloud Computing**  
 
