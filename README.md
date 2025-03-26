@@ -5,8 +5,6 @@ I focus on **performance, security, and clean code** while ensuring a great user
 ---
 
 
-![Contribution Graph](https://github.com/rizvan555/contribution-graph/raw/main/graph.svg)
-
 
 
 ## 🛠️ **Tech Stack & Tools** 🚀  
